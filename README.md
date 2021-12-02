@@ -5,6 +5,7 @@ Least-privilege capabilities for containers
 ## Prerequisites 
 * Install Docker. I used the ONLY the step 4 "Install Docker" on this link: https://computingforgeeks.com/deploy-kubernetes-cluster-on-ubuntu-with-kubeadm/
 * Install Java Development Toolkit (e.g., openJDK)
+* Choose an image from https://hub.docker.com/search?source=verified&type=image that you want to try and might have had experience working on
 
 ## Steps
 
