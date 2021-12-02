@@ -14,7 +14,7 @@ Least-privilege capabilities for containers
 3. Change line 9 of the code and refer it to a folder of your choice. This helps debugging the program further
 4. Compile the `Main.java` code: `javac Main.java`
 5. Run the program `java Main`
-6. It asks you three questions. One is the image you want to run, second is optional port bindings (sometimes required for server apps), third is the flags you need to input to the `docker run` command. The default works in some cases but that's not the usual case. I had to run `gcc` with `-dit` params
+6. It asks you three questions. One is the image you want to run, second is optional port bindings (sometimes required for server apps), third is the flags you need to input to the `docker run` command. The default flag works in some cases but that's not the usual case. I had to run `gcc` with `-dit` params
 7. The program will run and give you the least privilege capabilities at the end
 
 ## How it works
